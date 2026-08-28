@@ -1,0 +1,6 @@
+{
+  "name": "VisualFlow",
+  "description": "A modern, highly visual responsive website powered by the Pexels API featuring live curated photos and videos, interactive masonry discovery, advanced filters, custom mood boards, and visual trend analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
